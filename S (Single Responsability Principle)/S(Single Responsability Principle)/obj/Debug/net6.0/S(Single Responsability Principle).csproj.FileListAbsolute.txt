@@ -1,0 +1,15 @@
+D:\Dev\BACKEND\C#\S(Single Responsability Principle)\S(Single Responsability Principle)\obj\Debug\net6.0\S(Single Responsability Principle).csproj.AssemblyReference.cache
+D:\Dev\BACKEND\C#\S(Single Responsability Principle)\S(Single Responsability Principle)\obj\Debug\net6.0\S(Single Responsability Principle).GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev\BACKEND\C#\S(Single Responsability Principle)\S(Single Responsability Principle)\obj\Debug\net6.0\S(Single Responsability Principle).AssemblyInfoInputs.cache
+D:\Dev\BACKEND\C#\S(Single Responsability Principle)\S(Single Responsability Principle)\obj\Debug\net6.0\S(Single Responsability Principle).AssemblyInfo.cs
+D:\Dev\BACKEND\C#\S(Single Responsability Principle)\S(Single Responsability Principle)\obj\Debug\net6.0\S(Single Responsability Principle).csproj.CoreCompileInputs.cache
+D:\Dev\BACKEND\C#\S(Single Responsability Principle)\S(Single Responsability Principle)\bin\Debug\net6.0\S(Single Responsability Principle).exe
+D:\Dev\BACKEND\C#\S(Single Responsability Principle)\S(Single Responsability Principle)\bin\Debug\net6.0\S(Single Responsability Principle).deps.json
+D:\Dev\BACKEND\C#\S(Single Responsability Principle)\S(Single Responsability Principle)\bin\Debug\net6.0\S(Single Responsability Principle).runtimeconfig.json
+D:\Dev\BACKEND\C#\S(Single Responsability Principle)\S(Single Responsability Principle)\bin\Debug\net6.0\S(Single Responsability Principle).dll
+D:\Dev\BACKEND\C#\S(Single Responsability Principle)\S(Single Responsability Principle)\bin\Debug\net6.0\S(Single Responsability Principle).pdb
+D:\Dev\BACKEND\C#\S(Single Responsability Principle)\S(Single Responsability Principle)\obj\Debug\net6.0\S(Single Responsability Principle).dll
+D:\Dev\BACKEND\C#\S(Single Responsability Principle)\S(Single Responsability Principle)\obj\Debug\net6.0\refint\S(Single Responsability Principle).dll
+D:\Dev\BACKEND\C#\S(Single Responsability Principle)\S(Single Responsability Principle)\obj\Debug\net6.0\S(Single Responsability Principle).pdb
+D:\Dev\BACKEND\C#\S(Single Responsability Principle)\S(Single Responsability Principle)\obj\Debug\net6.0\S(Single Responsability Principle).genruntimeconfig.cache
+D:\Dev\BACKEND\C#\S(Single Responsability Principle)\S(Single Responsability Principle)\obj\Debug\net6.0\ref\S(Single Responsability Principle).dll

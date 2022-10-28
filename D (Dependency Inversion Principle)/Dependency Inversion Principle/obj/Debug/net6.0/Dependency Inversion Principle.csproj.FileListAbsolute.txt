@@ -1,0 +1,15 @@
+D:\Dev\BACKEND\C#\Dependency Inversion Principle\Dependency Inversion Principle\bin\Debug\net6.0\Dependency Inversion Principle.exe
+D:\Dev\BACKEND\C#\Dependency Inversion Principle\Dependency Inversion Principle\bin\Debug\net6.0\Dependency Inversion Principle.deps.json
+D:\Dev\BACKEND\C#\Dependency Inversion Principle\Dependency Inversion Principle\bin\Debug\net6.0\Dependency Inversion Principle.runtimeconfig.json
+D:\Dev\BACKEND\C#\Dependency Inversion Principle\Dependency Inversion Principle\bin\Debug\net6.0\Dependency Inversion Principle.dll
+D:\Dev\BACKEND\C#\Dependency Inversion Principle\Dependency Inversion Principle\bin\Debug\net6.0\Dependency Inversion Principle.pdb
+D:\Dev\BACKEND\C#\Dependency Inversion Principle\Dependency Inversion Principle\obj\Debug\net6.0\Dependency Inversion Principle.csproj.AssemblyReference.cache
+D:\Dev\BACKEND\C#\Dependency Inversion Principle\Dependency Inversion Principle\obj\Debug\net6.0\Dependency Inversion Principle.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev\BACKEND\C#\Dependency Inversion Principle\Dependency Inversion Principle\obj\Debug\net6.0\Dependency Inversion Principle.AssemblyInfoInputs.cache
+D:\Dev\BACKEND\C#\Dependency Inversion Principle\Dependency Inversion Principle\obj\Debug\net6.0\Dependency Inversion Principle.AssemblyInfo.cs
+D:\Dev\BACKEND\C#\Dependency Inversion Principle\Dependency Inversion Principle\obj\Debug\net6.0\Dependency Inversion Principle.csproj.CoreCompileInputs.cache
+D:\Dev\BACKEND\C#\Dependency Inversion Principle\Dependency Inversion Principle\obj\Debug\net6.0\Dependency Inversion Principle.dll
+D:\Dev\BACKEND\C#\Dependency Inversion Principle\Dependency Inversion Principle\obj\Debug\net6.0\refint\Dependency Inversion Principle.dll
+D:\Dev\BACKEND\C#\Dependency Inversion Principle\Dependency Inversion Principle\obj\Debug\net6.0\Dependency Inversion Principle.pdb
+D:\Dev\BACKEND\C#\Dependency Inversion Principle\Dependency Inversion Principle\obj\Debug\net6.0\Dependency Inversion Principle.genruntimeconfig.cache
+D:\Dev\BACKEND\C#\Dependency Inversion Principle\Dependency Inversion Principle\obj\Debug\net6.0\ref\Dependency Inversion Principle.dll
